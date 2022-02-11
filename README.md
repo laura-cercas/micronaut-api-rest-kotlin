@@ -1,4 +1,4 @@
-##Example Micronaut Application with Kotlin + Maven + JDK 17 + Arquimedes Parent
+## Example Micronaut Application with Kotlin + Maven + JDK 17 + Arquimedes Parent
 
 Simple example to create an easy application using Kotlin, JDK 17 and Maven. 
 
